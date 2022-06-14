@@ -4,4 +4,4 @@
 
 ### New line added from vscode
 
-### New line from main branch
+### New line from main & new-feature-vscode merge branch
